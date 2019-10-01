@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+vk_config.v2.json
+*.jpg
+dataset*
